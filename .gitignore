@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+auth.json
+credentials.json
+settings.local.json
+.openrig/
+send-arguments*.json
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db

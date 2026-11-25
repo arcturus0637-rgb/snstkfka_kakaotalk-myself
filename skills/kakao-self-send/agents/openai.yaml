@@ -1,0 +1,6 @@
+interface:
+  display_name: "KakaoTalk Self Send"
+  short_description: "Send requested text and file links to your KakaoTalk"
+  default_prompt: "Use $kakao-self-send to send the text or file I selected to my KakaoTalk self chat."
+policy:
+  allow_implicit_invocation: true
